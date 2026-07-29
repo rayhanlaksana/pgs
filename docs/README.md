@@ -8,14 +8,16 @@ I will run a personalized gym service for myself and my clients.
 
 The personalized gym service will allow me to train and coach family, friends and clients remotely all centralized under one app.
 
-This project will allow me to implement knowledge and skills from my Masters of Business Information System course at Monash University Malaysia; following through the Product Discovery Process and Design Thinking, as well as the System Development Life Cycle:
+This project will allow me to implement knowledge and skills from my Masters of Business Information System course at Monash University Malaysia; following through: 
 
+Product Discovery Process and Design Thinking:
 1. Empathy
 2. Define
 3. Ideate
 4. Prototype
 5. Test
 
+System Development Life Cycle:
 1. Planning
 2. Analysis
 3. Design
