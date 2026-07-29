@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "defaultMode": "default",
+    "allow": [
+      "Read(./**)"
+    ],
+    "ask": [
+      "Edit(./**)",
+      "Write(./**)",
+      "NotebookEdit(./**)",
+      "WebFetch",
+      "WebSearch",
+      "Bash(git push:*)",
+      "Bash(git commit:*)"
+    ],
+    "deny": [
+      "Read(../**)",
+      "Read(/**)",
+      "Edit(../**)",
+      "Write(../**)",
+      "Bash(rm -rf:*)",
+      "Bash(curl:*)",
+      "Bash(wget:*)"
+    ]
+  }
+}
