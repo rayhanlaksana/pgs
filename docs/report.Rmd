@@ -1,0 +1,17 @@
+---
+title: "project.pgs"
+author: "Rayhan Laksana"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+## Introduction
+
+This is a test document to confirm my R Markdown pipeline works end to end.
+
+## A simple test
+
+```{r}
+summary(cars)
+plot(cars)
+```
