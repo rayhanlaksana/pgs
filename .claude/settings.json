@@ -1,8 +1,15 @@
 {
   "permissions": {
-    "defaultMode": "default",
     "allow": [
       "Read(./**)"
+    ],
+    "deny": [
+      "Read(../**)",
+      "Edit(../**)",
+      "Write(../**)",
+      "Bash(rm -rf:*)",
+      "Bash(curl:*)",
+      "Bash(wget:*)"
     ],
     "ask": [
       "Edit(./**)",
@@ -13,13 +20,11 @@
       "Bash(git push:*)",
       "Bash(git commit:*)"
     ],
-    "deny": [
-      "Read(../**)",
-      "Edit(../**)",
-      "Write(../**)",
-      "Bash(rm -rf:*)",
-      "Bash(curl:*)",
-      "Bash(wget:*)"
-    ]
+    "defaultMode": "default"
+  },
+  "enabledPlugins": {
+    "security-guidance@claude-code-plugins": true,
+    "feature-dev@claude-code-plugins": true,
+    "pr-review-toolkit@claude-code-plugins": true
   }
 }
