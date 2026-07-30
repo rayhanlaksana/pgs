@@ -1,4 +1,4 @@
-# Project Title
+# Personalized Gym Service (PGS)
 
 This is my first personal project outside of academia that I will venture into strengthening my IT and Business skills.
 
