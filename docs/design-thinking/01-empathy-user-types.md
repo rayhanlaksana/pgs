@@ -43,6 +43,6 @@
 ## 5. Coach / Me (Provider)
 - Relationship: You — the person running and managing the service
 - Experience level: Advanced
-- Goals: See at a glance who hasn't checked in this week, review submitted form/videos efficiently, track each client's progress and flag who needs attention next
+- Goals: See at a glance who hasn't checked in this week, review submitted form-check videos efficiently, track each client's progress and flag who needs attention next
 - Tech comfort: High
 - Session style: Mostly asynchronous oversight (reviewing check-ins, videos, progress logs) punctuated by live coaching sessions; needs an overview, not a single linear session
