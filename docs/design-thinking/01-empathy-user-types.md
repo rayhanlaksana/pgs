@@ -38,7 +38,7 @@
 - Experience level: Varies — often Beginner to Intermediate
 - Goals: Make safe progress without aggravating the limitation, regain function/confidence, avoid re-injury
 - Tech comfort: Varies — no assumption either way
-- Session style: Needs closer form review (e.g. video check-ins), modified/substituted exercises, frequent communication about pain or limits, and may require coordinating with the client's medical/PT guidance
+- Session style: Needs closer form review (e.g. video check-ins), modified/substituted exercises, frequent communication about pain or limits, and may require coordinating with the client's medical/physical therapy (PT) guidance
 
 ## 5. Coach / Me (Provider)
 - Relationship: You — the person running and managing the service

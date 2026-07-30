@@ -25,5 +25,5 @@ Pain points per user type, following on from [01-empathy-user-types.md](01-empat
 
 ## 5. Coach / Me (Provider)
 - No at-a-glance view of who hasn't checked in this week — catching a lapsed client requires manually remembering or scrolling back through each person's history.
-- Reviewing submitted form videos is tedious and unstructured — no consistent way to leave feedback tied to a specific rep/moment, so notes end up scattered across texts/messages.
+- Reviewing submitted form-check videos is tedious and unstructured — no consistent way to leave feedback tied to a specific rep/moment, so notes end up scattered across texts/messages.
 - Tracking progress across multiple clients with different programs, injuries, and check-in cadences relies on memory or ad hoc notes rather than a single source of truth — easy to lose track of who needs attention next.
